@@ -12,7 +12,7 @@ Miniconda : https://docs.conda.io/en/latest/miniconda.html
  ![image](https://user-images.githubusercontent.com/81714161/130337742-f71bcd6c-6c39-4a70-b070-d6ca8c09ec01.png)
 
 
-3-	Create virtual environment
+3-	Create a virtual environment
 
 By run :
 create --name bot python=3.6
@@ -51,7 +51,7 @@ Python main.py
 
  
 
-The model accuracy is 100% because we use very small data size 
+The model accuracy is 100% because we use a very small data size 
 
   ![image](https://user-images.githubusercontent.com/81714161/130337784-e6987d32-6357-40e9-b8ef-2b65a3053a9e.png)
 
